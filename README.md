@@ -1,3 +1,7 @@
+# R-GNN: recurrent graph neural networks for font classification of oracle bone inscriptions
+
+## [Published in Heritage Science](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-024-01133-4)
+
 ## 1.甲骨文字检测
 
 临摹甲骨文图像质量较高，检测任务较为简单，检测模型采用YOLOv8进行
